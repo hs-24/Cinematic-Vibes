@@ -1,1 +1,14 @@
 #list all the python packages used here
+pandas
+matplotlib
+wordcloud
+streamlit
+numpy
+
+Built-in:
+re
+string
+
+
+
+
